@@ -8,6 +8,7 @@ public class ProPetsElasticTestApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ProPetsElasticTestApplication.class, args);
+		//Random comment for commit
 	}
 
 }
